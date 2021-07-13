@@ -1,0 +1,16 @@
+.\obj\io_expander.o: io_expander.c
+.\obj\io_expander.o: ..\peripherals\include\eeprom.h
+.\obj\io_expander.o: C:\ProgramData\App-V\DE50D8B9-402F-4CAC-9DEA-99ADC8882CA4\8A984B0A-A990-4F1D-B426-7065E242CA63\Root\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\io_expander.o: ..\drivers\include\i2c.h
+.\obj\io_expander.o: C:\ProgramData\App-V\DE50D8B9-402F-4CAC-9DEA-99ADC8882CA4\8A984B0A-A990-4F1D-B426-7065E242CA63\Root\ARM\ARMCC\bin\..\include\stdbool.h
+.\obj\io_expander.o: C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h
+.\obj\io_expander.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm4.h
+.\obj\io_expander.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h
+.\obj\io_expander.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h
+.\obj\io_expander.o: C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h
+.\obj\io_expander.o: ..\drivers\include\driver_defines.h
+.\obj\io_expander.o: C:\ProgramData\App-V\DE50D8B9-402F-4CAC-9DEA-99ADC8882CA4\8A984B0A-A990-4F1D-B426-7065E242CA63\Root\ARM\ARMCC\bin\..\include\stdio.h
+.\obj\io_expander.o: C:\ProgramData\App-V\DE50D8B9-402F-4CAC-9DEA-99ADC8882CA4\8A984B0A-A990-4F1D-B426-7065E242CA63\Root\ARM\ARMCC\bin\..\include\errno.h
+.\obj\io_expander.o: ..\drivers\include\gpio_port.h
+.\obj\io_expander.o: io_expander.h
+.\obj\io_expander.o: C:\ProgramData\App-V\DE50D8B9-402F-4CAC-9DEA-99ADC8882CA4\8A984B0A-A990-4F1D-B426-7065E242CA63\Root\ARM\ARMCC\bin\..\include\string.h
